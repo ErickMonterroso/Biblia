@@ -1,10 +1,5 @@
 /*
-ERICK ESTUARDO MONTERROSO VILLATORO
-090-15-9458
-
-2do proyecto programacion 1
-
-Programa que realiza busquedas de textos biblicos, archivos cargados por usuario
+ERICK MONTERROSO
 */
 
 
@@ -181,7 +176,7 @@ void menu(){
         busqueda();
         break;
         case 3: system("cls");cout << "\n\n\t\tSaliendo... \n"; break;
-        default: cout << "Usted ha ingresado una opción incorrecta";
+        default: cout << "Usted ha ingresado una opciÃ³n incorrecta";
     }
 }
 
